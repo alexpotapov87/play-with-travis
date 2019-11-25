@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/githubotik/play-with-travis.svg?branch=master)](https://travis-ci.org/githubotik/play-with-travis)
+[![Build Status](https://travis-ci.org/alexpotapov87/play-with-travis.svg?branch=master)](https://travis-ci.org/alexpotapov87/play-with-travis)
 ### Play with Travis CI
 
 testiukdk
